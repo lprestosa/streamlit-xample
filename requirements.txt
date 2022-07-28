@@ -1,0 +1,8 @@
+os
+numpy==1.23.1
+pandas==1.2.0
+matplotlib==3.5.2
+streamlit==1.11.0
+openpyxl==3.0.6
+pip==22.2.1
+plotly==4.14.3
